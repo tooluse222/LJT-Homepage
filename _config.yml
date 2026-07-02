@@ -19,7 +19,7 @@ repository               : "tooluse222/LJT-Homepage"
 
 # Site Author
 author:
-  avatar           : "profile.png"
+  avatar           : ""
   name             : "Junteng Liu"
   pronouns         : 
   bio              : "First-year PhD candidate at HKUST NLP Group. Research focuses on natural language processing and machine learning."
